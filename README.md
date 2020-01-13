@@ -7,3 +7,5 @@
 - https://p.migdal.pl/interactive-machine-learning-list/
 - http://setosa.io/ev/
 - http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html
+- https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/
+- https://basilio.dev/
