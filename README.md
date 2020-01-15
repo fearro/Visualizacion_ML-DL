@@ -1,7 +1,7 @@
 ## Visualización de estadística y probabilidad
 - Introducción visual a la probabilidad y la estadística (https://seeing-theory.brown.edu/es.html)
 
-## Visualización de algoritmos con fines académicos
+## Visualización de algoritmos 
 - Visualizations of Machine Learning Algorithms (http://davpinto.github.io/ml-simulations/#image-reconstruction-with-principal-components-analysis)
 - Visualización de estructuras de datos y algoritmos mediante animación (https://visualgo.net/es)
 - Algorithm-visualizer (https://algorithm-visualizer.org/)
