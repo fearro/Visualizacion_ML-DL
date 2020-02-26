@@ -10,7 +10,7 @@
 - Interactive Machine Learning, Deep Learning and Statistics websites (https://p.migdal.pl/interactive-machine-learning-list/)
 - Explained Visually (http://setosa.io/ev/)
 - Interactive demonstrations for ML courses (http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html)
-- Visualización de Algoritmo de propagación inversa (https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
+- Visualización de Algoritmo de propagación inversa (https://developers-dot-devsite-v2-prod.appspot.com/machine-learning/crash-course/backprop-scroll?hl=es-419)
 - MLDemos open-source visualization tool for machine learning algorithms (https://basilio.dev/)
 
 
