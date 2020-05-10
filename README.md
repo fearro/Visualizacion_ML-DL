@@ -15,4 +15,4 @@
 - Neural Network 3D Visualization Framework (https://tensorspace.org/)
 - Visualización de Redes Neuronales con Tensorflow (https://playground.tensorflow.org/)
 - Visualización de Algoritmo de propagación inversa (https://developers-dot-devsite-v2-prod.appspot.com/machine-learning/crash-course/backprop-scroll?hl=es-419)
-
+- An Interactive Node-Link Visualization of Convolutional Neural Networks (https://www.cs.ryerson.ca/~aharley/vis/)
