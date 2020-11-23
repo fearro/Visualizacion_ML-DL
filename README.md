@@ -17,3 +17,4 @@
 - Visualización de Algoritmo de propagación inversa (https://developers-dot-devsite-v2-prod.appspot.com/machine-learning/crash-course/backprop-scroll?hl=es-419)
 - An Interactive Node-Link Visualization of Convolutional Neural Networks (https://www.cs.ryerson.ca/~aharley/vis/)
 - Explicación de las Redes Neuronales Convolucionales y sus diferentes partes (https://poloclub.github.io/cnn-explainer/)
+- Dibujar tu Red Neuronal (http://alexlenail.me/NN-SVG/index.html)
